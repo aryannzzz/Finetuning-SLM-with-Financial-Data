@@ -20,7 +20,7 @@ All training data is **synthetic + augmented**, generated using a mix of:
 - augmentation and carefully designed **edge cases** for equities, cash flows,
   generic finance, etc. so the model doesn’t misclassify non-bond queries as bonds.
 
-The model is free to use and can be accessed from: https://drive.google.com/drive/folders/1FBMRExYwlkdiUJInZ-fNDd0S7Xrrf_4n?usp=sharing
+  The model is free to use and can be accessed from: https://drive.google.com/drive/folders/1FBMRExYwlkdiUJInZ-fNDd0S7Xrrf_4n?usp=sharing
 ---
 
 ## 1. Project Overview
